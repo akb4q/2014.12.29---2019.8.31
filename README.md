@@ -1,11 +1,11 @@
 # 2014.12.29---2019.8.31
 work in Sublog 2019
 
-# Control Interface
+## Control Interface
 
 foot switch & Arduino Leonardo 
 
-# Data
+## Data
 
 Fetch Data from iPhone's Health app by Access app 
 
