@@ -7,4 +7,4 @@ foot switch & Arduino Leonardo
 
 # Data
 
-Fetch Data by Access app 
+Fetch Data frome iPhone's Health app by Access app 
